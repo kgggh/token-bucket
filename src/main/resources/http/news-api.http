@@ -1,0 +1,7 @@
+### 뉴스 전체 조회
+GET http://localhost:8081/news
+
+
+### 뉴스 단건 조회
+GET http://localhost:8081/news/{id}
+
